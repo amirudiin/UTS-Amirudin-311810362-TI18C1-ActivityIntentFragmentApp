@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bar"
+    app:startDestination="@id/callFragment">
+
+    <fragment
+        android:id="@+id/callFragment"
+        android:name="com.example.uts_amirudin_311810362_ti18c1_activityintentfragmentapps.Fragment.CallFragment"
+        android:label="fragment_call"
+        tools:layout="@layout/fragment_call" />
+    <fragment
+        android:id="@+id/websiteFragment"
+        android:name="com.example.uts_amirudin_311810362_ti18c1_activityintentfragmentapps.Fragment.WebsiteFragment"
+        android:label="fragment_website"
+        tools:layout="@layout/fragment_website" />
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.uts_amirudin_311810362_ti18c1_activityintentfragmentapps.Fragment.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" />
+    <fragment
+        android:id="@+id/emailFragment"
+        android:name="com.example.uts_amirudin_311810362_ti18c1_activityintentfragmentapps.Fragment.EmailFragment"
+        android:label="fragment_email"
+        tools:layout="@layout/fragment_email" />
+</navigation>

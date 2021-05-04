@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTS Amirudin 311810362</string>
+    <string name="title">UTS Pemrograman Mobile</string>
+    <string name="call">Telepon</string>
+    <string name="website">Website</string>
+    <string name="map">Map</string>
+    <string name="email">Email</string>
+    <string name="title_call">Akan dilakukan panggilan ke 14022</string>
+    <string name="next">Lanjutkan</string>
+    <string name="title_website">Akan dilakukan pembukaan discord pada browser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_map">Akan dilakukan pembukaan lokasi pada google map</string>
+    <string name="title_email">Lanjutkan membuka gmail untuk melakukan pengiriman email?</string>
+</resources>
